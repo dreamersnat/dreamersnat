@@ -1,4 +1,4 @@
-- 👋 Hi
+👋 Hi
 <table align="left">
   <tr>
     <td width="100%">
